@@ -1,0 +1,60 @@
+@import '../_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css';
+
+/* WeatherChart/Layout/MainLayout.razor.rz.scp.css */
+.page[b-gflhhd2lyh] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main[b-gflhhd2lyh] {
+    flex: 1;
+}
+
+.navbar[b-gflhhd2lyh] {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.navbar-brand[b-gflhhd2lyh] {
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding-left: 1rem;
+}
+
+.nav-item[b-gflhhd2lyh] {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.nav-link[b-gflhhd2lyh] {
+    color: rgba(255,255,255,.85) !important;
+    transition: color 0.2s;
+    }
+
+.nav-link:hover[b-gflhhd2lyh] {
+    color: #fff !important;
+    }
+
+.nav-link.active[b-gflhhd2lyh] {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+.btn-outline-light[b-gflhhd2lyh] {
+    border-width: 2px;
+    }
+
+article[b-gflhhd2lyh] {
+    margin-top: 1rem;
+}
+
+@media (max-width: 640.98px) {
+    .navbar-brand[b-gflhhd2lyh] {
+        font-size: 1.2rem;
+    }
+
+    .nav-item[b-gflhhd2lyh] {
+        padding: 0.25rem 0.5rem;
+    }
+}
